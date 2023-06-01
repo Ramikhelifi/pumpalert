@@ -1,10 +1,10 @@
 # pumpalert
-_ibsall dependeci_
+_install dependeci_
 ```
   cd lib
   flutter pub get
 ```
-_stqrtingApp_
+_startingApp_
 ```
   cd lib
   flutter run
