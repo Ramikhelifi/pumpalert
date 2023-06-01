@@ -1,7 +1,9 @@
 # pumpalert
+create a new flutter project 
+flutter create <project name>
+  copy the lib images and pubspect.yaml
 _install dependeci_
 ```
-  cd lib
   flutter pub get
 ```
 _startingApp_
